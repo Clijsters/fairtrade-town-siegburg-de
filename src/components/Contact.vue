@@ -7,7 +7,7 @@
       </div>
       <ul class="" style="margin-top: 40px">
         <li class="contact__item--dark">
-          <a href="mailto:contact@clijsters.de" onClick="gtag('send', 'event', 'click', 'contact','mail');">
+          <a href="mailto:contact@fairtrade-town-siegburg.de" onClick="gtag('send', 'event', 'click', 'contact','mail');">
             <img class="contact__image" src="../assets/mail.png" alt="Mail-Icon">
             <p class="contact__image__description">{{ $t("contact.mail") }}</p>
           </a>

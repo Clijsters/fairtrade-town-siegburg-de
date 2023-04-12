@@ -1,7 +1,7 @@
 <!--suppress HtmlUnknownAnchorTarget -->
 <template>
   <header class="navigation__header">
-    <a v-scroll-to="{ el: '#app' }" href="#" class="logo navigation__link">clijsters</a>
+    <a v-scroll-to="{ el: '#app' }" href="#" class="logo navigation__link">Siegburg wird Fair!</a>
     <input id="menu-btn" class="menu-btn" type="checkbox">
     <label class="menu-icon" for="menu-btn"><span class="navicon" /></label>
     <ul class="menu">

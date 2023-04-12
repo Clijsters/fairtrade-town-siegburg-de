@@ -11,8 +11,8 @@
     "more": "Erfahren Sie mehr"
   },
   "about": {
-    "hello": "Dominique Clijsters | Senior Software Consultant | Leader",
-    "info1": "Ich entwickle seit über zehn Jahren professionell Software. Mit meinen Erfahrungen in Kundenbetreuung, Beratung, Projektmanagement und Support unterstütze ich Unternehmen in Aufbau & Transformation von Enterprise Software. Ich nehme regelmäßig an Schulungen und Konferenzen teil und bilde Software Teams fort."
+    "hello": "Siegburg wird Fair! | Feiert mit uns die Auszeichnung zur Fair Trade Town",
+    "info1": "Seit langer Zeit nun blablabla"
   },
   "skills": {
     "heading": "Erfahrung"
@@ -30,36 +30,6 @@
       "second": "",
       "third": "",
       "fourth": ""
-    },
-    "chamaeleon": {
-      "first": "",
-      "second": "",
-      "third": ""
-    },
-    "datagroup": {
-      "first": "",
-      "second": "",
-      "third": ""
-    },
-    "xylo-it": {
-      "first": "",
-      "second": "",
-      "third": ""
-    },
-    "agrip": {
-      "first": "",
-      "second": "",
-      "third": ""
-    },
-    "chinook": {
-      "first": "",
-      "second": "",
-      "third": ""
-    },
-    "buchdata": {
-      "first": "",
-      "second": "",
-      "third": ""
     }
   },
   "contact": {
@@ -68,6 +38,6 @@
   },
   "footer": {
     "withLove": "Handarbeit mit",
-    "copyright": "&copy; 2020 Dominique Clijsters. Alle Rechte vorbehalten."
+    "copyright": "&copy; 2023 Dominique Clijsters. Alle Rechte vorbehalten."
   }
 }
