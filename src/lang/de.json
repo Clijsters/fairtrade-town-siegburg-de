@@ -1,14 +1,14 @@
 {
   "navigation": {
-    "about": "über mich",
+    "about": "Auszeichnungsfeier",
     "skills": "erfahrung",
-    "work": "projekte",
-    "contact": "kontakt"
+    "work": "Details",
+    "contact": "Rechtliches"
   },
   "hero": {
-    "engineer": "Senior Consultant & Software Engineer",
-    "info1": "Gemeinsam bringen wir Ihr Software Team auf das nächste Level.",
-    "more": "Erfahren Sie mehr"
+    "engineer": "Siegburg wird Fair - Feier mit!",
+    "info1": "12.05. 18:00h - auf dem Michaelsberg",
+    "more": "Weitere Infos"
   },
   "about": {
     "hello": "Siegburg wird Fair! | Feiert mit uns die Auszeichnung zur Fair Trade Town",

@@ -1,47 +1,43 @@
 {
   "navigation": {
-    "about": "about",
-    "skills": "expertise",
-    "work": "projects",
-    "contact": "contact"
+    "about": "Auszeichnungsfeier",
+    "skills": "erfahrung",
+    "work": "Details",
+    "contact": "Rechtliches"
   },
   "hero": {
-    "engineer": "Senior Consultant & Software Engineer",
-    "info1": "I will bring your enterprise software to the next level.",
-    "more": "Learn more"
+    "engineer": "Siegburg wird Fair - Feier mit!",
+    "info1": "12.05. 18:00h - auf dem Michaelsberg",
+    "more": "Weitere Infos"
   },
   "about": {
-    "hello": "Dominique Clijsters | Senior Software Consultant | Leader",
-    "info1": "I have been developing software professionally for over ten years. I have experience in customer care, consulting, project management and support. I regularly attend training courses and conferences and speak at the JUG Koblenz and the TECDay of 1&1 IONOS."
+    "hello": "Siegburg wird Fair! | Feiert mit uns die Auszeichnung zur Fair Trade Town",
+    "info1": "Seit langer Zeit nun blablabla"
   },
   "skills": {
-    "heading": "Expertise"
+    "heading": "Erfahrung"
   },
   "projects": {
-    "heading": "Projects",
+    "heading": "Projekte",
     "disc": {
-      "first": "DiSC is a fast-growing, young consulting startup in the Westerwald Area specialized on finance, telecommunication, and insurance.",
-      "second": "With mostly technical consulting we have prominent customers in and around germany.",
-      "third": "Currently, I'm responsible for a team of 3 software consultants, plus I'm consulting a DevOps-Team in a state-owned enterprise. I was responsible for design & implementation of a modern micro service architecture for a nationwide network of traffic control and monitoring systems. I created Spring modules to easily and quickly roll out new services. This enables the customer to outperform the competition."
+      "first": "Die Digital Solutions Consulting GmbH ist ein modernes, schnell-wachsendes startup aus dem Westerwald und ist spezialisiert auf Beratung in den Branchen finance, Telekommunikation und Versicherung.",
+      "second": "Wir haben bereits zahlreiche namhafte Kunden in und um Deutschland, für die wir beratend tätig sind, hauptsächlich im Bereich Software consulting. (Java, Spring, Camunda, IBM, Big Data)",
+      "third": "Ich führe ein Team aus 3 Software Consultants und berate ein Staatsunternehmen beim Betrieb von Java-basierten Microservices in einem Kubernetes-Cluster. Davor war ich in Projekten mit einem europaweit agierenden Smart Grid Dienstleister und dem Marktführer für Straßen- und Baustellensicherheit (landesweit eingesetztes Verkehrssicherungssystem)"
+
     },
     "1und1": {
-      "first": "With 4.4 million customers, 1&1 Telecommunication SE is Germany's largest alternative DSL provider after Deutsche Telekom. Since 2010, 1&1 has also been operating as a successful mobile phone provider and in 2019 took one step further towards becoming a successful full-service provider with the acquisition of 5G licenses.",
-      "second": "An important success factor is the sophisticated commission model of indirect sales, the technical development of which was my responsibility. Technical focus was on Java 11, Spring Boot, maven, Docker, grails, IBM ODM, postgreSQL and Sybase ASE.",
-      "third": "In addition to technical development and expansion, constantly growing demands and changing regulations require quick reaction time, good concepts and excellent communication skills.",
-      "fourth": "I also organized and participated in concern-wide tech-talks, Java User Group and supported the company on Job fairs, hackathons, etc."
+      "first": "",
+      "second": "",
+      "third": "",
+      "fourth": ""
     }
   },
   "contact": {
-    "heading": "Interested in working together?",
-    "info": "Reach out.",
-    "mail": "Mail",
-    "linkedin": "LinkedIn",
-    "xing": "Xing",
-    "stackoverflow": "StackOverflow",
-    "github": "GitHub"
+    "heading": "Brauchen Sie Verstärkung?",
+    "info": "Treten Sie in Kontakt."
   },
   "footer": {
-    "withLove": "Handcrafted with",
-    "copyright": "&copy; 2020 Dominique Clijsters. All rights reserved."
+    "withLove": "Handarbeit mit",
+    "copyright": "&copy; 2023 Dominique Clijsters. Alle Rechte vorbehalten."
   }
 }

@@ -36,7 +36,7 @@ Make sure you're in the src/ directory, then run
 
 ### Start development server
 
-    npm run serve
+    npm run dev
 
 ### Start production server
 

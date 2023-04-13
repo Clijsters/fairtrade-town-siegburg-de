@@ -1,7 +1,7 @@
-const en = require('./en.json')
 const de = require('./de.json')
+const en = require('./en.json')
 
 module.exports = {
-  en,
-  de
+  de,
+  en
 }
