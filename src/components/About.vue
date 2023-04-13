@@ -13,14 +13,14 @@
       <ul class="about__social row">
         <li class="column--3 contact__item">
           <a href="#" target="_blank" rel="nofollow">
-            <img class="contact__image" src="../assets/linkedin.png" alt="LinkedIn-Logo">
-            <p class="contact__image__description">{{ $t("contact.linkedin") }}</p>
+            <img class="contact__image" src="../assets/mail.png" alt="mail-Logo">
+            <p class="contact__image__description">{{ $t("contact.mail") }}</p>
           </a>
         </li>
         <li class="column--3 contact__item">
           <a href="#" target="_blank" rel="nofollow" >
-            <img class="contact__image" src="../assets/github.png" alt="GitHub-Logo">
-            <p class="contact__image__description">{{ $t("contact.github") }}</p>
+            <img class="contact__image" src="../assets/mail.png" alt="mail-Logo">
+            <p class="contact__image__description">{{ $t("contact.mail") }}</p>
           </a>
         </li>
         <li class="column--3 contact__item">
