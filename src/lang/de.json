@@ -1,7 +1,6 @@
 {
   "navigation": {
     "about": "Auszeichnungsfeier",
-    "skills": "erfahrung",
     "work": "Details",
     "contact": "Rechtliches"
   },
@@ -13,9 +12,6 @@
   "about": {
     "hello": "Siegburg wird Fair! | Feiert mit uns die Auszeichnung zur Fair Trade Town",
     "info1": "Seit langer Zeit nun blablabla"
-  },
-  "skills": {
-    "heading": "Erfahrung"
   },
   "projects": {
     "heading": "Projekte",

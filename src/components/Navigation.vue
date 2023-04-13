@@ -10,9 +10,6 @@
         <a v-scroll-to="{ el: '#about', offset: -40 }" href="#about" class="navigation__link">{{ $t("navigation.about") }}</a>
       </li>
       <li>
-        <a v-scroll-to="{ el: '#skills', offset: -110 }" href="#expertise" class="navigation__link">{{ $t("navigation.skills") }}</a>
-      </li>
-      <li>
         <a v-scroll-to="{ el: '#projects', offset: -110 }" href="#projects" class="navigation__link">{{ $t("navigation.work") }}</a>
       </li>
       <li>
