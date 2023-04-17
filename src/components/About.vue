@@ -10,29 +10,29 @@
         {{ $t("about.info1") }}
       </p>
 
-      <ul class="about__social row">
-        <li class="column--3 contact__item">
-          <a href="#" target="_blank" rel="nofollow">
+      <ul class="about__social row row--multiline">
+        <li class="column--3 column-mobile--6 contact__item">
+          <a href="https://siegburg.de/stadtleben-aktuelles/newsletter/anmelden/index.html" target="_blank" rel="nofollow">
             <img class="contact__image" src="../assets/mail.png" alt="mail-Logo">
-            <p class="contact__image__description">{{ $t("contact.mail") }}</p>
+            <p class="contact__image__description">Siegburg Aktuell</p>
           </a>
         </li>
-        <li class="column--3 contact__item">
-          <a href="#" target="_blank" rel="nofollow" >
-            <img class="contact__image" src="../assets/mail.png" alt="mail-Logo">
-            <p class="contact__image__description">{{ $t("contact.mail") }}</p>
+        <li class="column--3 column-mobile--6 contact__item">
+          <a href="https://www.instagram.com/kreisstadt_siegburg/?hl=de" target="_blank" rel="nofollow" >
+            <img class="contact__image" src="../assets/instagram-logo.png" alt="mail-Logo">
+            <p class="contact__image__description">Instagram</p>
           </a>
         </li>
-        <li class="column--3 contact__item">
-          <a href="#" target="_blank" rel="nofollow">
-            <img class="contact__image" src="../assets/mail.png" alt="Mail-Logo">
-            <p class="contact__image__description">{{ $t("contact.mail") }}</p>
+        <li class="column--3 column-mobile--6 contact__item">
+          <a href="https://www.facebook.com/kreisstadtsiegburg/" target="_blank" rel="nofollow">
+            <img class="contact__image" src="../assets/facebook-logo.png" alt="Mail-Logo">
+            <p class="contact__image__description">Facebook</p>
           </a>
         </li>
-        <li class="column--3 contact__item">
-          <a href="#" target="_blank" rel="nofollow">
-            <img class="contact__image" src="../assets/mail.png" alt="Mail-Logo">
-            <p class="contact__image__description">{{ $t("contact.mail") }}</p>
+        <li class="column--3 column-mobile--6 contact__item">
+          <a href="https://www.siegburg.de" target="_blank" rel="nofollow">
+            <img class="contact__image" src="../assets/ftts-logo-weiss.png" alt="Mail-Logo">
+            <p class="contact__image__description">siegburg.de</p>
           </a>
         </li>
       </ul>

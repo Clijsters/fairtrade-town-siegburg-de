@@ -6,7 +6,7 @@ Vue.use(VueI18n)
 
 // set lang
 // TODO(cfischer): Save language in local storage
-Vue.config.lang = 'en'
+Vue.config.lang = 'de'
 
 // set locales
 Object.keys(locales).forEach((lang) => {
