@@ -16,15 +16,13 @@
           <h3>Programm</h3>
           <p>Das Programm besteht aus der Auszeichnung, einer Rede, Live-Musik und kurzen Beiträgen der Teilnehmer:innen:
           </p>
-          <img src="../assets/programm-pre.png">
-          <p></p>
 
           <div class="row row--multiline">
             <div class="column--1 column-mobile--2 column-tablet--2">18:00h</div>
-            <div class="column--3 column-mobile--12 column-tablet--12">
-              <h4>Sektempfang</h4>
+            <div class="column--4 column-mobile--12 column-tablet--12">
+              <h4>Sektempfang mit musikalischer Begleitung</h4>
             </div>
-            <div class="column--8 column-mobile--12 column-tablet--12">
+            <div class="column--7 column-mobile--12 column-tablet--12">
               <p>
                 Der Einlass beginnt mit einem kleinen Sektempfang. Bei gutem Wetter auf der großen Terasse mit Aussicht
                 über Siegburg. Alternativ in den Räumlichkeiten der Veranstaltung.
@@ -32,157 +30,182 @@
             </div>
           </div>
 
-
           <div class="row row--multiline">
             <div class="column--1 column-mobile--2 column-tablet--2">19:00h</div>
-            <div class="column--3 column-mobile--12 column-tablet--12">
+            <div class="column--4 column-mobile--12 column-tablet--12">
               <h4>Grußwort des Bürgermeisters</h4>
             </div>
-            <div class="column--8 column-mobile--12 column-tablet--12">
+            <div class="column--7 column-mobile--12 column-tablet--12">
               <p>
-                Lorem Ipsum
+                Ofizieller Beginn der Veranstaltung ist nach dem Sektempfang das Grußwort des Bürgermeisters. Stefan
+                Rosemann gibt einen Einblick in die Arbeiten der Stadt auf dem Weg zur Zertifizierung als Faire Stadt.
               </p>
             </div>
           </div>
+
           <div class="row row--multiline">
             <div class="column--1 column-mobile--2 column-tablet--2">19:10h</div>
-            <div class="column--3 column-mobile--12 column-tablet--12">
+            <div class="column--4 column-mobile--12 column-tablet--12">
               <h4>Vortrag FairTrade e.V.</h4>
             </div>
-            <div class="column--8 column-mobile--12 column-tablet--12">
+            <div class="column--7 column-mobile--12 column-tablet--12">
               <p>
                 Lorem Ipsum
               </p>
             </div>
           </div>
+
           <div class="row row--multiline">
             <div class="column--1 column-mobile--2 column-tablet--2">19:20h</div>
-            <div class="column--3 column-mobile--12 column-tablet--12">
+            <div class="column--4 column-mobile--12 column-tablet--12">
               <h4>Cello - Tereza Mikusova</h4>
             </div>
-            <div class="column--8 column-mobile--12 column-tablet--12">
+            <div class="column--7 column-mobile--12 column-tablet--12">
               <p>
                 Das Programm wird begleitet von einer Cellistin, welche moderne und klassische Musik spielt.
               </p>
             </div>
           </div>
+
           <div class="row row--multiline">
             <div class="column--1 column-mobile--2 column-tablet--2">19:30h</div>
-            <div class="column--3 column-mobile--12 column-tablet--12">
+            <div class="column--4 column-mobile--12 column-tablet--12">
               <h4>„Siegburg packt’s ohne ein“ – Warum nachhaltig wirtschaften und fairer Handel in Siegburg Perspektive
                 haben
               </h4>
             </div>
-            <div class="column--8 column-mobile--12 column-tablet--12">
+            <div class="column--7 column-mobile--12 column-tablet--12">
               <p>
                 Dominique Clijsters, Geschäftsführer des Unverpacktladens in der Kaiserstraße erzählt in einem
-                Kurzvortrag,
-                warum er glaubt, dass vor allem Mittelstädte wie Seigburg von nachhaltigem Wirtschaften und fairem Handel
+                Kurzvortrag warum er glaubt, dass vor allem Mittelstädte wie Seigburg von nachhaltigem Wirtschaften und
+                fairem Handel
                 profitieren.
               </p>
             </div>
           </div>
+
           <div class="row row--multiline">
             <div class="column--1 column-mobile--2 column-tablet--2">19:40h</div>
-            <div class="column--3 column-mobile--12 column-tablet--12">
-              <h4>Markt der möglichkeiten</h4>
+            <div class="column--4 column-mobile--12 column-tablet--12">
+              <h4>Markt der Möglichkeiten</h4>
             </div>
-            <div class="column--8 column-mobile--12 column-tablet--12">
+            <div class="column--7 column-mobile--12 column-tablet--12">
               <p>
-                Lorem Ipsum
+                Besuchen Sie die Präsentationsstände der Projektkurse und Siegburger Unternehmen zum Thema Fair Trade.
+                Die meisten Stände können Sie während des gesamten Abends besuchen.
               </p>
             </div>
           </div>
+
           <div class="row row--multiline">
             <div class="column--1 column-mobile--2 column-tablet--2">20:00h</div>
-            <div class="column--3 column-mobile--12 column-tablet--12">
+            <div class="column--4 column-mobile--12 column-tablet--12">
               <h4>Vortrag Indienhilfe Anno Gymnasium Siegburg</h4>
             </div>
-            <div class="column--8 column-mobile--12 column-tablet--12">
+            <div class="column--7 column-mobile--12 column-tablet--12">
               <p>
-                Lorem Ipsum
+                Der Projektkurs Indienhilfe des Anno Gymnasium stellt sich vor.
               </p>
             </div>
           </div>
+
           <div class="row row--multiline">
             <div class="column--1 column-mobile--2 column-tablet--2">20:05h</div>
-            <div class="column--3 column-mobile--12 column-tablet--12">
+            <div class="column--4 column-mobile--12 column-tablet--12">
               <h4>Vortrag zu fairem Kaffee - Cofi Loco</h4>
             </div>
-            <div class="column--8 column-mobile--12 column-tablet--12">
+            <div class="column--7 column-mobile--12 column-tablet--12">
               <p>
-                Lorem Ipsum
+                Uwe Prommer, Geschäftsführer von Cofi Loco, Siegburgs fairer Zero-Waste-Rösterei und Erfinder des
+                patentierten Frischedeckels für Kaffee in Pfandflaschen hält einen Vortrag zu der Bedeutung von fairem
+                Handel im Bereich des Speciality-Coffee.
               </p>
             </div>
           </div>
+
           <div class="row row--multiline">
             <div class="column--1 column-mobile--2 column-tablet--2">20:15h</div>
-            <div class="column--3 column-mobile--12 column-tablet--12">
-              <h4>Cello 2</h4>
+            <div class="column--4 column-mobile--12 column-tablet--12">
+              <h4>Cello - Tereza Mikusova</h4>
             </div>
-            <div class="column--8 column-mobile--12 column-tablet--12">
+            <div class="column--7 column-mobile--12 column-tablet--12">
               <p>
-                Lorem Ipsum
+                Tereza Mikusova spielt ein weiteres Stück
               </p>
             </div>
           </div>
+
           <div class="row row--multiline">
             <div class="column--1 column-mobile--2 column-tablet--2">20:20h</div>
-            <div class="column--3 column-mobile--12 column-tablet--12">
+            <div class="column--4 column-mobile--12 column-tablet--12">
               <h4>Interview / Kurzvortrag zum Fair-O-Mat des Anno-Gymnasium Siegburg</h4>
             </div>
-            <div class="column--8 column-mobile--12 column-tablet--12">
+            <div class="column--7 column-mobile--12 column-tablet--12">
               <p>
-                Lorem Ipsum
+                Der Fair-O-Mat ist auf den ersten Blick ein handelsüblicher Snak-Automat, der jedoch ausschließlich fair
+                gehandelte Snacks anbietet.
               </p>
             </div>
           </div>
+
           <div class="row row--multiline">
             <div class="column--1 column-mobile--2 column-tablet--2">20:25h</div>
-            <div class="column--3 column-mobile--12 column-tablet--12">
+            <div class="column--4 column-mobile--12 column-tablet--12">
               <h4>Interview / Kurzvortrag Projektkurs Afrika Gymnasium Alleestraße</h4>
             </div>
-            <div class="column--8 column-mobile--12 column-tablet--12">
+            <div class="column--7 column-mobile--12 column-tablet--12">
               <p>
-                Lorem Ipsum
+                Die Schüler:innen des Projektkurses Gymnasium Alleestraße stellen in einem Kurzvortrag ihren Projektkurs
+                vor und erklären warum sie fairen Handel unterstützen.
               </p>
             </div>
           </div>
+
           <div class="row row--multiline">
             <div class="column--1 column-mobile--2 column-tablet--2">20:30h</div>
-            <div class="column--3 column-mobile--12 column-tablet--12">
+            <div class="column--4 column-mobile--12 column-tablet--12">
               <h4>Offizielle Auszeichnung</h4>
             </div>
-            <div class="column--8 column-mobile--12 column-tablet--12">
+            <div class="column--7 column-mobile--12 column-tablet--12">
               <p>
-                Lorem Ipsum
+                Offizielle Vergabe der Urkunde "Fair Trade Town" durch den Fairtrade Deutschland e.V. an Bürgermeister
+                Stefan Rosemann.
               </p>
             </div>
           </div>
 
           <div class="row row--multiline">
             <div class="column--1 column-mobile--2 column-tablet--2">20:35h</div>
-            <div class="column--3 column-mobile--12 column-tablet--12">
+            <div class="column--4 column-mobile--12 column-tablet--12">
               <h4>Ausklang Schulcombo Gymnasium Alleestraße</h4>
             </div>
-            <div class="column--8 column-mobile--12 column-tablet--12">
-              <p>
-                Lorem Ipsum
-              </p>
-            </div>
-          </div>
-          <div class="row row--multiline">
-            <div class="column--1 column-mobile--2 column-tablet--2">???</div>
-            <div class="column--3 column-mobile--12 column-tablet--12">
-              <h4>Open End im Anno17</h4>
-            </div>
-            <div class="column--8 column-mobile--12 column-tablet--12">
+            <div class="column--7 column-mobile--12 column-tablet--12">
               <p>
                 Lorem Ipsum
               </p>
             </div>
           </div>
 
+          <div class="row row--multiline">
+            <div class="column--1 column-mobile--2 column-tablet--2">???</div>
+            <div class="column--4 column-mobile--12 column-tablet--12">
+              <h4>Open End im Anno17</h4>
+            </div>
+            <div class="column--7 column-mobile--12 column-tablet--12">
+              <p>
+                Lorem Ipsum
+              </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="column--2 projects__offset" />
+        <div class="projects__info column-mobile--12 column--8">
+          <h3>Die Location - der Michaelsberg</h3>
+          <p>Der Michaelsberg - unser Wahrzeichen eignet sich mit seinen Raeumlichkeiten - betrieben durch das
+            Katholisch-Soziale-Institut - hervorragend fuer unsere Auszeichnungsfeier.</p>
         </div>
       </div>
       <div class="row">
@@ -195,9 +218,8 @@
       <div class="row">
         <div class="column--2 projects__offset" />
         <div class="projects__info column-mobile--12 column--8">
-          <h3>Die Location - der Michaelsberg</h3>
-          <p>Der Michaelsberg - unser Wahrzeichen eignet sich mit seinen Raeumlichkeiten - betrieben durch das
-            Katholisch-Soziale-Institut - hervorragend fuer unsere Auszeichnungsfeier.</p>
+          <h3>Tereza Mikusova</h3>
+          <p>Lorem Ipsum</p>
         </div>
       </div>
       <div class="container--fluid">

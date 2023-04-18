@@ -5,6 +5,7 @@
         <p>{{ $t("footer.withLove") }} <a class="footer__vuejs" href="https://vuejs.org" target="_blank">VueJS</a>.</p>
         <!-- eslint-disable-next-line vue/no-v-html -->
         <p v-html="$t('footer.copyright')" />
+        <p v-html="$t('footer.imprint')" />
       </li>
     </ul>
   </footer>

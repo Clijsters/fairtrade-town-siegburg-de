@@ -1,8 +1,10 @@
 {
   "navigation": {
-    "about": "Award Ceremony",
-    "work": "Details",
-    "contact": "Imprint"
+    "about": "The Party",
+    "work": "Follow Us",
+    "imprint": "Imprint",
+    "contact": "Contact",
+    "dsgvo": "Data Protection"
   },
   "hero": {
     "engineer": "Siegburg Becomes FairTrade Town - Let's Celebrate!",
@@ -22,6 +24,7 @@
   },
   "footer": {
     "withLove": "Hand crafted with",
-    "copyright": "&copy; 2023 Dominique Clijsters. All Rights reserved."
+    "copyright": "&copy; 2023 Dominique Clijsters. All Rights reserved.",
+    "imprint": "Please find our imprint and data protection policies via navigation menu on top of this page."
   }
 }

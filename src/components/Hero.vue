@@ -3,10 +3,8 @@
     <div class="hero__graylayer container--fluid ">
       <div class="hero__container">
         <h1 class="hero__hello">
-          {{ $t("hero.engineer") }}
         </h1>
         <p class="hero__info1">
-          {{ $t("hero.info1") }}
         </p>
         <a v-scroll-to="{ el: '#about', offset: -40 }" class="hero__more" href="#">
           <p>{{ $t("hero.more") }}</p>

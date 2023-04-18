@@ -2,7 +2,9 @@
   "navigation": {
     "about": "Auszeichnungsfeier",
     "work": "Details",
-    "contact": "Rechtliches"
+    "imprint": "Impressum",
+    "contact": "Kontakt",
+    "dsgvo": "Datenschutz"
   },
   "hero": {
     "engineer": "Siegburg wird Fair - Feiert mit!",
@@ -22,6 +24,7 @@
   },
   "footer": {
     "withLove": "Hand Crafted with",
-    "copyright": "&copy; 2023 Dominique Clijsters. Alle Rechte vorbehalten."
+    "copyright": "&copy; 2023 Dominique Clijsters. Alle Rechte vorbehalten.",
+    "imprint": "Unser Impressum sowie unsere Datenschutzerklärung finden Sie über die Links im Navigationsmenü."
   }
 }

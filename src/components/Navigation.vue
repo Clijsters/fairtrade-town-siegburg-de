@@ -15,6 +15,12 @@
       <li>
         <a v-scroll-to="{ el: '#contact', offset: -110 }" href="#contact" class="navigation__link">{{ $t("navigation.contact") }}</a>
       </li>
+      <li>
+        <a href="https://siegburg-unverpackt.de/impressum/" rel="nofollow" class="navigation__link">{{ $t("navigation.imprint") }}</a>
+      </li>
+      <li>
+        <a href="https://siegburg-unverpackt.de/datenschutz/" rel="nofollow" class="navigation__link">{{ $t("navigation.dsgvo") }}</a>
+      </li>
       <li @click="changeLanguage">
         <button
           :class="[{ 'navigation__change-language--de': isEnglish },
