@@ -1,20 +1,20 @@
 {
   "navigation": {
-    "about": "Auszeichnungsfeier",
+    "about": "Award Ceremony",
     "work": "Details",
-    "contact": "Rechtliches"
+    "contact": "Imprint"
   },
   "hero": {
-    "engineer": "Siegburg wird Fair - Feiert mit!",
-    "info1": "12.05. 18:00h - auf dem Michaelsberg",
-    "more": "Weitere Infos"
+    "engineer": "Siegburg Becomes FairTrade Town - Let's Celebrate!",
+    "info1": "12.05. 18:00h - Michaelsberg",
+    "more": "Read More"
   },
   "about": {
-    "hello": "Siegburg wird Fair! | Feiert mit uns die Auszeichnung zur Fair Trade Town",
-    "info1": "Am 12.05.2023 ab 18:00h erwarten wir Sie in den Räumlichkeiten des KSI auf dem Michaelsberg. Folgen Sie uns auf Social Media für weitere Details und Ankündigungen rund um die Auszeichnungsfeier"
+    "hello": "Siegburg Becomes FairTrade Town! | Let's celebrate ",
+    "info1": "On 12.05.2023 from 18:00h we expect you in the Europaforum of KSI on the Michaelsberg. Follow us on social media for more details and announcements around the award ceremony"
   },
   "projects": {
-    "heading": "Weitere Informationen"
+    "heading": "Further Information"
   },
   "contact": {
     "heading": "Further Questions?",
