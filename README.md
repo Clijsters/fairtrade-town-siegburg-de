@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<b>This is the GitHub Reposiory for <a href="https://fairtrade-town-siegburg.de">my personal homepage</a>. It is a single-page Vue.js app with nuxt</b>
+<b>This is the GitHub Reposiory for <a href="https://fairtrade-town-siegburg.de">fairtrade-town-siegburg.de</a>. It is a single-page Vue.js app with nuxt</b>
 </p>
 <p align="center">
     <a href="https://ci.appveyor.com/project/Clijsters/homepage/branch/master">
@@ -18,9 +18,11 @@
 </p>
 
 ____
-## homepage
+## Fairtrade-Town-Siegburg.de
 
 This Sigle-Page uses most of its features from [my personal homepage][4]. 
+
+> Please bear in mind that this project is under heavy development. I18n isn't complete (due to hard-coded elements), image size is > 1GiB and some screen sizes seem to mess with the layout.
 
 It's a nuxt app and therefore uses server-side-rendering to be able to work w/o JavaScript. This increases not only usability, but also decreases loading time and optimizes SEO. The first request is being served with a server-side-rendered html page.
 
